@@ -90,6 +90,7 @@ while True:
 
                     elif resposta == "n":
                         print("\n--Discarded!--")
+                        break
                     else:
                         print("\n--Please select a valid input--")
 
